@@ -29,7 +29,7 @@ debate-assistant/
 ### 1️⃣ Clone the Repository
 
 ```bash
-git clone https://github.com/your-repo/debate-assistant.git
+git clone https://github.com/MVenkatsai02/Debate-Assistant-Gen-AI
 cd debate-assistant
 ```
 
